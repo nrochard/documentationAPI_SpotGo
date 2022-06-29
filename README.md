@@ -32,7 +32,7 @@ Champs | Description
 user_id | ID de l'utilisateur qui a ajouté le spot.
 name | Nom du spot
 description | Description du spot
-longitutde | Coordonnées du spot 
+longitude | Coordonnées du spot 
 latitude | Coordonnées du spot 
 like | Nombre de like
 
